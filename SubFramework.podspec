@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
 
-    spec.name         = "SubFramework"
+    spec.name         = "TSMKit"
     spec.version      = "1.1.1"
     spec.summary      = "SwiftSDK集成方式"
     spec.description  = "Swift版本测试sdk集成方式"
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
     spec.platform     = :ios, "10.0"
     spec.source       = { :git => "https://github.com/xiaobadao/SubFramework.git", :tag => "#{spec.version}" }
     spec.swift_version = "5.0"
-    spec.vendored_frameworks = "SubFramework.framework"
+    spec.vendored_frameworks = "TSMKit.framework"
     spec.requires_arc = true
     spec.frameworks = "Foundation"
 end
