@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SubFramework-Swift.h</key>
 		<data>
-		iWJlfr52tpTCCXc4iO0UXTbYf+E=
+		FsTTlTUyl5IFACTd4f8uer5WfrA=
 		</data>
 		<key>Headers/SubFramework.h</key>
 		<data>
@@ -14,7 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hgsasSO//MiduOf3+fXKU88ij0k=
+		JT55yiZ1zTaZjs6R2OVwygvhMAE=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/Project/arm.swiftsourceinfo</key>
+		<data>
+		h96L0KZxB7tEZMGyT1HMnC0nqtc=
 		</data>
 		<key>Modules/SubFramework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
@@ -23,6 +27,22 @@
 		<key>Modules/SubFramework.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
 		r5ujjfEvXODFldZ6HQQkIxDPsww=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<data>
+		h96L0KZxB7tEZMGyT1HMnC0nqtc=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<data>
+		h96L0KZxB7tEZMGyT1HMnC0nqtc=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/arm.swiftdoc</key>
+		<data>
+		1rrGJQuk/Lo8vbyvXA2TCzy1Gko=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/arm.swiftmodule</key>
+		<data>
+		+yS7+jYnMUqG5liiHWfrOFtAnr0=
 		</data>
 		<key>Modules/SubFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -40,6 +60,22 @@
 		<data>
 		/OgIFyt6Ed+K1/DHSsySPS+lzhA=
 		</data>
+		<key>Modules/SubFramework.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		1rrGJQuk/Lo8vbyvXA2TCzy1Gko=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		+yS7+jYnMUqG5liiHWfrOFtAnr0=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		1rrGJQuk/Lo8vbyvXA2TCzy1Gko=
+		</data>
+		<key>Modules/SubFramework.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		+yS7+jYnMUqG5liiHWfrOFtAnr0=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		ZnoHYsdXBttypBnv3GcW9tW3a4M=
@@ -51,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iWJlfr52tpTCCXc4iO0UXTbYf+E=
+			FsTTlTUyl5IFACTd4f8uer5WfrA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jxsMHmqtCJOx+9DnM7B9e9poRz8gfrv04mreqYrinTI=
+			5EjGhB1hiQG0Y/6Jayo4Q81zhEZFEE6sbllKl0oqiTU=
 			</data>
 		</dict>
 		<key>Headers/SubFramework.h</key>
@@ -69,6 +105,17 @@
 			71eaq8ZNNQUkaXClP71yjWJYLvsv3n3hT4FVp6dYkF8=
 			</data>
 		</dict>
+		<key>Modules/SubFramework.swiftmodule/Project/arm.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h96L0KZxB7tEZMGyT1HMnC0nqtc=
+			</data>
+			<key>hash2</key>
+			<data>
+			7J1rb5r0GgE5K028nMwwPA7xxF+XdmAfafZMBQP0mSA=
+			</data>
+		</dict>
 		<key>Modules/SubFramework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
@@ -89,6 +136,50 @@
 			<key>hash2</key>
 			<data>
 			mOKtpSdjs9vOPGQq/G1QECapfMoVYCwgNaKa+VQzgOc=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h96L0KZxB7tEZMGyT1HMnC0nqtc=
+			</data>
+			<key>hash2</key>
+			<data>
+			7J1rb5r0GgE5K028nMwwPA7xxF+XdmAfafZMBQP0mSA=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h96L0KZxB7tEZMGyT1HMnC0nqtc=
+			</data>
+			<key>hash2</key>
+			<data>
+			7J1rb5r0GgE5K028nMwwPA7xxF+XdmAfafZMBQP0mSA=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/arm.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1rrGJQuk/Lo8vbyvXA2TCzy1Gko=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xk40kUdmWFKtXxa9Xi/st0AO15U8XKR6q2E6aWDgi2c=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/arm.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+yS7+jYnMUqG5liiHWfrOFtAnr0=
+			</data>
+			<key>hash2</key>
+			<data>
+			d1vMim12YPOa77Qp48BBW8Yl+YYOK/PEcSXPG8bIK6Q=
 			</data>
 		</dict>
 		<key>Modules/SubFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -133,6 +224,50 @@
 			<key>hash2</key>
 			<data>
 			aRiqkjGZnUpWQekHsRYLvmV8ZGo6SYLczY3Zly/k6PI=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1rrGJQuk/Lo8vbyvXA2TCzy1Gko=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xk40kUdmWFKtXxa9Xi/st0AO15U8XKR6q2E6aWDgi2c=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+yS7+jYnMUqG5liiHWfrOFtAnr0=
+			</data>
+			<key>hash2</key>
+			<data>
+			d1vMim12YPOa77Qp48BBW8Yl+YYOK/PEcSXPG8bIK6Q=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1rrGJQuk/Lo8vbyvXA2TCzy1Gko=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xk40kUdmWFKtXxa9Xi/st0AO15U8XKR6q2E6aWDgi2c=
+			</data>
+		</dict>
+		<key>Modules/SubFramework.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+yS7+jYnMUqG5liiHWfrOFtAnr0=
+			</data>
+			<key>hash2</key>
+			<data>
+			d1vMim12YPOa77Qp48BBW8Yl+YYOK/PEcSXPG8bIK6Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -16,5 +16,6 @@ Pod::Spec.new do |spec|
     spec.requires_arc = true
     spec.frameworks = 'Foundation'
     spec.module_name = 'SubFramework'
+    spec.static_framework  =  true
 end
 
