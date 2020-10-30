@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |spec|
 
-    spec.name         = "TSMKit"
-    spec.version      = "1.1.2"
+    spec.name         = "SubFramework"
+    spec.version      = "1.1.3"
     spec.summary      = "SwiftSDK集成方式"
     spec.description  = "Swift版本测试sdk集成方式"
     spec.homepage     = "https://github.com/xiaobadao/SubFramework"
@@ -12,9 +12,9 @@ Pod::Spec.new do |spec|
     spec.ios.deployment_target = '10.0'
     spec.source       = { :git => "https://github.com/xiaobadao/SubFramework.git", :tag => "#{spec.version}" }
     spec.swift_version = "5.0"
-    spec.vendored_frameworks = "TSMKit.framework"
+    spec.vendored_frameworks = "UnionPayTools/libs/TSMKit.framework"
     spec.requires_arc = true
-    spec.frameworks = 'Foundation'
+    spec.frameworks = 'Foundation','libc++'
     spec.static_framework  =  true
 end
 
