@@ -17,6 +17,6 @@ Pod::Spec.new do |spec|
     spec.requires_arc = true
     spec.frameworks = 'Foundation'
     spec.static_framework  =  true
-    spec.library = 'libc++'
+    spec.library = 'c++'
 end
 
