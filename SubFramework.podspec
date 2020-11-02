@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
     spec.name         = "SubFramework"
-    spec.version      = "1.1.6"
+    spec.version      = "1.1.7"
     spec.summary      = "SwiftSDK集成方式"
     spec.description  = "Swift版本测试sdk集成方式"
     spec.homepage     = "https://github.com/xiaobadao/SubFramework"
@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
     spec.source       = { :git => "https://github.com/xiaobadao/SubFramework.git", :tag => "#{spec.version}" }
     spec.swift_version = "5.0"
     spec.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.0' }
-    spec.vendored_frameworks = "UnionPayTools/libs/TSMKit.framework"
+    spec.vendored_frameworks = "UnionPayTools/libs/SubFramework.framework","UnionPayTools/libs/TSMKit.framework"
     spec.requires_arc = true
     spec.frameworks = 'Foundation'
     spec.static_framework  =  true
