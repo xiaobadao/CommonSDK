@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
     spec.name         = "SubFramework"
-    spec.version      = "1.1.7"
+    spec.version      = "1.1.8"
     spec.summary      = "SwiftSDK集成方式"
     spec.description  = "Swift版本测试sdk集成方式"
     spec.homepage     = "https://github.com/xiaobadao/SubFramework"
@@ -17,6 +17,6 @@ Pod::Spec.new do |spec|
     spec.requires_arc = true
     spec.frameworks = 'Foundation'
     spec.static_framework  =  true
-    
+    spec.library = 'libc++'
 end
 
